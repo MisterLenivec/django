@@ -139,3 +139,8 @@ def resolve_url(to, *args, **kwargs):
 
     # Finally, fall back and assume it's a URL
     return to
+
+    
+def keanu_reeves():
+    return 'You are breathtaking!'
+
